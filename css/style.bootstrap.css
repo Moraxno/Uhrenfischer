@@ -1,0 +1,11 @@
+@font-face 
+{
+    font-family: University;
+    src: url("../fonts/University-Roman.ttf");
+    font-weight: normal;
+}
+
+h1
+{
+    font-family: University;
+}
