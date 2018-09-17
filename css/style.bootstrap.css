@@ -5,8 +5,51 @@
     font-weight: normal;
 }
 
-h5
+body
+{
+    background-color: lightgray;
+}
+
+h2
 {
     font-family: University;
     text-align: center;
 }
+
+.uhr-content
+{
+    
+}
+
+.uhr-container
+{
+    /*background-color: gray;*/
+}
+
+.uhr-navigation-fixed
+{
+    top: 0;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+}
+
+.uhr-centered
+{
+    text-align: center;
+}
+
+/*
+.affix
+{
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+#navigation
+{
+    padding-top: 70px;
+}
+
+*/
