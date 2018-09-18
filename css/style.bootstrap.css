@@ -16,6 +16,16 @@ h2
     text-align: center;
 }
 
+.uhr-title-image
+{
+    width: 100%;
+    height: calc(100% - 50px);
+    background-image: url("../img/uhr.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 66% 33%;
+}
+
 .uhr-content
 {
     
