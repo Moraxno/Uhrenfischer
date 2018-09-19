@@ -14,12 +14,14 @@ h2
 {
     font-family: University;
     text-align: center;
+    font-size: 2.75em;
+    font-weight: bold;
 }
 
 .uhr-title-image
 {
     width: 100%;
-    height: calc(100% - 50px);
+    height: calc(100% - 49px);
     background-image: url("../img/uhr.jpg");
     background-size: cover;
     background-repeat: no-repeat;
